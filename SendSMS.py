@@ -1,7 +1,5 @@
 #
 #
-#SID = SK8ecbe11700e3172fe3b77e9b95a31817
-#SECRET =ukQMwjROjftv17lt62r7e5PSAdl3JS38
 #
 # Testing sending emails using python.
 
